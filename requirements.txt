@@ -4,3 +4,4 @@ python-multipart==0.0.20
 polars==1.33.1
 fastexcel==0.16.0
 xlsxwriter==3.2.5
+pyarrow

@@ -1,6 +1,0 @@
-fastapi==0.116.1
-uvicorn[standard]==0.35.0
-python-multipart==0.0.20
-polars==1.33.1
-fastexcel==0.16.0
-pyarrow==21.0.0
